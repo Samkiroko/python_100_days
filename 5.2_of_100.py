@@ -35,4 +35,4 @@ password_final = ""
 
 for char in password:
     password_final += char
-print(password_final)
+print(f"your password is: {password_final}")
