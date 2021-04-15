@@ -1,6 +1,5 @@
 # Step 1
 import random
-from replit import clear
 from hangman_words import word_list
 from hangman_art import stages, logo
 
