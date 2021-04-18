@@ -23,8 +23,6 @@ while not game_over:
     # -2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
     guess_letter = (input("Guess letter in the secret word?\n")).lower()
 
-    clear()
-
     if guess_letter in display:
         print(f"You've already guessed {guess_letter}")
 

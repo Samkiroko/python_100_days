@@ -4,8 +4,15 @@
   ],
   "python.testing.unittestEnabled": false,
   "python.testing.nosetestsEnabled": false,
-  "python.testing.pytestEnabled": true,
+  "python.testing.pytestEnabled": false,
   "cSpell.ignoreWords": [
     "mentos"
+  ],
+  "python.testing.promptToConfigure": false,
+  "python.linting.banditEnabled": false,
+  "python.linting.enabled": false,
+  "python.linting.pylintEnabled": true,
+  "cSpell.words": [
+    "wanjiku"
   ]
 }
