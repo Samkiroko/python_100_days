@@ -1,0 +1,40 @@
+Inheritance
+____________
+
+
+Inheritance is the process by which one class takes on the attributes and methods 
+of another. Newly formed classes are called child classes, and the classes that
+child classes are derived from are called parent classes.
+
+Child classes inherits all of the parent's attribute and methods but can also 
+extend and override attribute and methods that are unique to themselves.
+
+
+polymorphism
+____________
+
+"Many Shapes"
+
+We can write a code that works on the superclass, and it will work with  any 
+subclass type as well.
+
+Gives a way to use a class exactly like its parants, but each child class keep 
+its own methods as they are.
+
+Encapsulation 
+_____________
+
+Encapsulation is the mechanism of hidding of data implementation.
+
+Instance variable are kept private and accessor methods are made public to 
+achieve this. With this, we restrict access to public methods (getter/setter).
+
+Abstraction
+___________
+
+Abstraction can be thought of as a natural extension of encapsulation.
+Applying Abstraction means that each object should only expose a high-level 
+mechanism for using it.
+
+This mechanism should hide internal implementation details. 
+It should only reveal operation relavant for the other objects
