@@ -1,0 +1,1 @@
+Higher order function take other function as arguments.
