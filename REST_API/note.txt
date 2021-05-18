@@ -1,0 +1,26 @@
+REST API
+_________
+
+- Application programming interface = Away two piece of software can communicate
+with each other.
+- Making request and respose. A server and client
+- The response is in JSON.
+- REST communicating on the web
+- You use endpoint to request data.
+
+GET:
+-Is used to get data
+POST:
+- used to write data new data
+DELETE:
+-used to delete data
+PUT: 
+- used to write by updating data(idempotent)
+
+CRUD
+
+API:
+https://api.stackexchange.com/2.2/questions?order=desc&sort=activity&site=stackoverflow
+
+
+

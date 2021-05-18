@@ -1,0 +1,14 @@
+Class is a blueprint for the objects
+In naming a class use PascalCase= meaning every name need tobe capitalized 
+- constructor it a guild on how our object should be constructed.It also know as
+initializing an object.
+-Attribute are thing that the object will have and they are basically variables.
+- To add a default attribute you can add it without adding it on the initializa
+arguments
+
+Methods
+______
+
+- Is basically was the object does.
+-When a function is attached to an object is called a method
+- A method an like a function require (self) as arguments.
