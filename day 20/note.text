@@ -47,6 +47,14 @@ under a for loop position in starting_position
 
 create move(self) method
 
+inheritance
+
+class Fish(Animal):
+   def __init__(self):
+      super().__init__()
+
+Animal is the main class and the Fish class is inheriting the method in the
+animal class.
 
 
 
