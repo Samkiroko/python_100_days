@@ -27,5 +27,6 @@
     "xcor"
   ],
   "python.pythonPath": "/usr/local/opt/python@3.9/bin/python3.9",
-   "python.analysis.extraPaths": ["python_course", " /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages"]
+   "python.analysis.extraPaths": ["python_course", " /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages",
+   "/Users/sam/Projects/python_course/day 20"]
 }

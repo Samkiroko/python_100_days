@@ -1,0 +1,52 @@
+snake game
+----------
+create new screen
+setup width= 600, height= 600
+add title = "snake game"
+bgcolor "black"
+
+new turtle has dimension 20*20
+
+segment_1 = Turtle("SQUARE")
+segment_1.color("white")
+
+create 3
+2 = goto(-20,0)
+2 = goto(-40,0)
+
+Animating the snake
+
+create a segemnt list []
+the append the segement for the newly created (new_segment)
+
+while loop True
+use  a while loop to move the segement
+loop through segment list
+- seg.forword(20)
+turn off tracer(0)
+
+after for loop and call update
+import time module
+
+use range to trun the segment with start, stop, step
+
+create snake.py  oop
+
+create snake class
+then init the method
+- self.segment
+- self.creat_snake()
+
+create (create_snake) method
+under a for loop position in starting_position
+  -new_segment = Turtle("square")
+   - new_segment.color("white")
+   - new_segment.penup()
+  -  new_segment.goto(position)
+   - segments.append(new_segment)
+
+create move(self) method
+
+
+
+
